@@ -1,7 +1,5 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 1994년 08월 12일생
+- 새로운 기술에 대한 열정이 크며, 최신 트렌드를 따라가고 학습하는 것을 즐깁니다.
+- 동료들과의 원활한 커뮤니케이션을 중요하게 여기며, 팀워크를 통해 더 나은 결과를 만들어내는 것을 지향합니다.
+- 피드백과 리뷰를 통해 지속적으로 성장하고 개선하는 과정에 적극 참여합니다.
+- 문제를 함께 해결하는 과정에서 동료들과의 협력을 통해 효율적인 문제 해결을 추구합니다.
