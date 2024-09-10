@@ -33,7 +33,7 @@ module.exports = {
         /**
          * @description 페이지 최상단 gradient의 시작 컬러입니다.
          */
-        GRADIENT_FROM: "#51cf66",
+        GRADIENT_FROM: "#89F7FE",
 
         /**
          * @description 페이지 최상단 gradient의 종료 컬러입니다.
