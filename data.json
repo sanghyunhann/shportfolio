@@ -18,6 +18,12 @@
       "name": "효성새마을금고",
       "position": "주임",
       "period": ["2022. 02", "2023. 03"]
+    },
+    {
+      "id": 1,
+      "name": "(주)모아데이타",
+      "position": "매니저",
+      "period": ["2024. 11", "현재"]
     }
   ],
 
@@ -48,6 +54,15 @@
       "isTeam": true,
       "period": ["2024.07.15", "2024.08.27"],
       "stack": ["JAVA", "JavaScript", "Python", "Spring Boot", "Flask", "HTML5", "CSS3", "APACEH TOMCAT", "MySQL", "MongoDB", "VSCode", "Git-Hub"]
+    },
+    {
+      "id": 3,
+      "name": "병원문진 agent",
+      "description": "스케줄러와 배치를 활용한 병원 환자 건강검진 예약 알림 및 문진표 자동 저장 시스템 개발",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2024.11.01", "현재"],
+      "stack": ["JAVA", "Spring Boot", "APACEH TOMCAT", "MySQL", "Oracle", "IntelliJ", "Git-Hub"]
     }
   ],
 
